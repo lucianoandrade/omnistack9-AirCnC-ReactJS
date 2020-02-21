@@ -2,7 +2,7 @@
 Aplicação desenvolvida na 9ª Semana Omnistack da <a href="https://rocketseat.com.br" target="_blank"> Rocketseat</a>.
 Uma réplica do Airbnb para empresas.
 
-# Tecnologias Utilizadas :
+# Tecnologias Utilizadas:
 
 * ReactJs
 * Axios
